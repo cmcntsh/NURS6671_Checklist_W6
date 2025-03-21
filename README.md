@@ -13,6 +13,17 @@ You must use the concepts you learn in this course throughout the rest of your p
 <br><br><br>
 # Which statistical test should I use?
 
+## One Variable
+
+| Level of Measurement | Test(s) |
+| --- | --- |
+| Nominal |  |
+| Ordinal |  |
+| Interval |  |
+| Ratio |  |
+
+## One Independent Variable (IV) One Independent Variable (DV)
+
 | <img width="100" height="1"> |  <img width="100" height="1"> | Independent<br>(or Predictor)<br>Variable (IV)<br><img width="100" height="1"> | <img width="100" height="1"> | <img width="100" height="1"> | <img width="100" height="1"> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | <br><br><br> |  | **Nominal**  | **Ordinal** | **Interval** | **Ratio** |
