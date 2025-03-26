@@ -76,10 +76,10 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 |  |
 | Test selection & Power analysis: Before a statistical test can be conducted, the correct statistical test must first be selected. The test selected depends mainly on the levels of measurement of the data you have available and the characteristics of those data. You may also need to meet certain thresholds for the amount of data you have to be able to conduct a meaningful test. (Determining the amount of data needed is often accomplished by conducting a power analysis.) What statistical test(s) will be conducted? Which variable(s) will be used in those test(s)? Do you have the amount of data needed to get a meaningful result? |
 | Statistical test:<br><br>Adequate sample size (Power analysis):<br><br>|
-| $\textcolor{red}{Add \ this \ section:}$ What are the assumptions for the statistical test used? Do the data in the dataset meet those assumptions? If not, should an alternative test be selected or are any adjustments necessary to conduct a meaningful test? |
-| <br><br><br><br> |
 | What are the independent (or predictor) and dependent (or outcome) variables for the test, and what is the level of measurement for each one? |
 | IV:<br><br>DV:<br><br> |
+| $\textcolor{red}{Add \ this \ section:}$ What are the assumptions for the statistical test used? Do the data in the dataset meet those assumptions? If not, should an alternative test be selected or are any adjustments necessary to conduct a meaningful test? |
+| <br><br><br><br> |
 | NHST steps: |
 | These steps should be followed for each statistical test conducted as part of a study. |
 | 1. State the null and alternative hypothesis. |
