@@ -98,3 +98,12 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 | Relevant descriptive statistics:<br><br>Name of test performed and null hypothesis:<br><br>Statistical test information:<br><br>Interpretation for the reader:<br><br> |
 | **--------------------References--------------------** |
 | American Statistical Association. (2022, February 1, 2022). Ethical guidelines for statistical practice. Retrieved October 10 from https://www.amstat.org/your-career/ethical-guidelines-for-statistical-practice <br><br> Berman, N., & Gullíon, C. (2007). Working with a Statistician. Topics in Biostatistics, 489-503. <br><br> Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., & Fitzgerald, W. T. (2016). The craft of research (Fourth ed.). University of Chicago Press. https://doi.org/10.7208/chicago/9780226239873.001.0001 <br><br> Field, A. (2018). Discovering statistics using IBM SPSS statistics (Fifth ed.). SAGE Publications, Inc. <br><br> Shadish, W. R., Cook, T. D., & Campbell, D. T. (2002). Experimental and quasi-experimental designs for generalized causal inference. Wadsworth, Cengage Learning. <br><br> Tabachnick, B. G., & Fidell, L. S. (2019). Using multivariate statistics (Seventh ed.). Pearson Education, Inc. |
+
+## Useful Prompts
+
+Write results:
+
+```
+Please help me report the results of a <name of statistical test here>. Please report some relevant descriptive statistics first, followed by the name of the test performed and the null hypothesis, followed by the relevant statistical test information with the effect size, and interpret the results for the reader. Here is the relevant information: <paste tables or summarize information here>
+
+```
