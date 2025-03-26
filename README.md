@@ -92,6 +92,8 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 | <br><br><br><br> |
 | $\textcolor{red}{Add \ this \ section:}$ Are any post-hoc or follow-up analyses needed? |
 | <br><br><br><br> |
+| $\textcolor{red}{Add \ this \ section:}$ What is the effect size? What is the interpretation of the effect size? |
+| <br><br><br><br> |
 | $\textcolor{red}{Add \ this \ section:}$ How will you report results? |
 | Relevant descriptive statistics:<br><br>Name of test performed and null hypothesis:<br><br>Statistical test information:<br><br>Interpretation for the reader:<br><br> |
 | **--------------------References--------------------** |
