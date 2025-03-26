@@ -109,3 +109,15 @@ Write results:
 Please help me report the results of a <name of statistical test here>. Please report some relevant descriptive statistics first, followed by the name of the test performed and the null hypothesis, followed by the relevant statistical test information with the effect size, and interpret the results for the reader. Here is the relevant information: <paste tables or summarize information here>
 
 ```
+
+Rate a study on the Johns Hopkins Level of Evidence.
+
+```
+What is the level of evidence for this study based on the Johns Hopkins level of evidence ranking system (Level I: Experimental study, randomized controlled trial (RCT), or meta-analysis of RCTs. Level II: Quasi-experimental study. Level III: Non-experimental study, qualitative study, or meta-synthesis. Level IV: Opinion of nationally recognized experts based on research evidence or expert consensus. Level V: Opinion of individual expert based on non-research evidence.)?
+```
+
+Rate a study on the Johns Hopkins quality rating using letters.
+
+```
+What is the quality rating for this study based on the Johns Hopkins quality rating system (A High quality: Consistent, generalizable results; sufficient sample size for the study design; adequate control; definitive conclusions; consistent recommendations based on comprehensive literature review that includes thorough reference to scientific evidence. B Good quality: Reasonably consistent results; sufficient sample size for the study design; some control, fairly definitive conclusions; reasonably consistent recommendations based on fairly comprehensive literature review that includes some reference to scientific evidence. C Low quality or major flaws: Little evidence with inconsistent results; insufficient sample size for the study design; conclusions cannot be drawn.)?
+```
