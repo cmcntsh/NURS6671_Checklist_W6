@@ -103,6 +103,8 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 <br><br><br><br>
 ## Useful Prompts
 
+See more prompts at https://github.com/cmcntsh/NURS6671_Checklist_Prompts
+
 Write results:
 
 ```
