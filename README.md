@@ -79,23 +79,23 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 | What are the independent (or predictor) and dependent (or outcome) variables for the test, and what is the level of measurement for each one? |
 | IV:<br><br>DV:<br><br> |
 | $\textcolor{red}{Add \ this \ section:}$ What are the assumptions for the statistical test used? Do the data in the dataset meet those assumptions? If not, should an alternative test be selected or are any adjustments necessary to conduct a meaningful test? |
-| IV & DV are categorical<br>independent observations<br>mutually exclusive groups<br>80% of expected frequencies >5<br>No expected values are 0<br> |
+| $\textcolor{red}{Update \ this \ section:}$ <br>IV & DV are categorical<br>independent observations<br>mutually exclusive groups<br>80% of expected frequencies >5<br>No expected values are 0<br> |
 | NHST steps: |
 | These steps should be followed for each statistical test conducted as part of a study. |
 | 1. State the null and alternative hypothesis. |
-| H0: There is no association between the IV and the DV<br><br>H1: There is an association between the IV and the DV<br><br> |
+| $\textcolor{red}{Update \ this \ section:}$ <br>H0: There is no association between the IV and the DV<br><br>H1: There is an association between the IV and the DV<br><br> |
 | 2. Establish the criteria for rejection (alpha level). |
 | Typically alpha = .05<br><br><br><br> |
 | 3. Calculate the test statistic. |
-| chi-square (df, N= ) = [value], p = [value]<br><br><br><br> |
+| $\textcolor{red}{Update \ this \ section:}$ <br>chi-square (df, N= ) = [value], p = [value]<br><br><br><br> |
 | 4. Make a decision about the null hypothesis. (Reject or fail to reject?) |
 | reject or fail to reject H0?<br><br><br><br> |
 | $\textcolor{red}{Add \ this \ section:}$ Are any post-hoc or follow-up analyses needed? |
-| For significant results, describe the pattern where observed values differ the most from expected values in the cells.<br><br>Describe the overall trend if one can be identified.<br><br> |
+| $\textcolor{red}{Update \ this \ section:}$ <br>For significant results, describe the pattern where observed values differ the most from expected values in the cells.<br><br>Describe the overall trend if one can be identified.<br><br> |
 | $\textcolor{red}{Add \ this \ section:}$ What is the effect size? What is the interpretation of the effect size? |
 | phi (for 2x2 table) or Cramer's V (larger tables) =<br><br><br><br> |
 | $\textcolor{red}{Add \ this \ section:}$ How will you report results? |
-| Relevant descriptive statistics:<br><br>Name of test performed and null hypothesis:<br><br>Statistical test information:<br><br>Interpretation for the reader:<br><br> |
+| $\textcolor{red}{Update \ this \ section:}$ <br>Relevant descriptive statistics:<br><br>Name of test performed and null hypothesis:<br><br>Statistical test information:<br><br>Interpretation for the reader:<br><br> |
 | **--------------------References--------------------** |
 | American Statistical Association. (2022, February 1, 2022). Ethical guidelines for statistical practice. Retrieved October 10 from https://www.amstat.org/your-career/ethical-guidelines-for-statistical-practice <br><br> Berman, N., & Gullíon, C. (2007). Working with a Statistician. Topics in Biostatistics, 489-503. <br><br> Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., & Fitzgerald, W. T. (2016). The craft of research (Fourth ed.). University of Chicago Press. https://doi.org/10.7208/chicago/9780226239873.001.0001 <br><br> Field, A. (2018). Discovering statistics using IBM SPSS statistics (Fifth ed.). SAGE Publications, Inc. <br><br> Shadish, W. R., Cook, T. D., & Campbell, D. T. (2002). Experimental and quasi-experimental designs for generalized causal inference. Wadsworth, Cengage Learning. <br><br> Tabachnick, B. G., & Fidell, L. S. (2019). Using multivariate statistics (Seventh ed.). Pearson Education, Inc. |
 
