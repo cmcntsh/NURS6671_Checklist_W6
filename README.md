@@ -93,7 +93,7 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 | $\textcolor{red}{Add \ this \ section:}$ Are any post-hoc or follow-up analyses needed? |
 | $\textcolor{red}{Update \ this \ section:}$ <br>For significant results, describe the pattern where observed values differ the most from expected values in the cells.<br><br>Describe the overall trend if one can be identified.<br><br> |
 | $\textcolor{red}{Add \ this \ section:}$ What is the effect size? What is the interpretation of the effect size? |
-| phi (for 2x2 table) or Cramer's V (larger tables) =<br><br><br><br> |
+| $\textcolor{red}{Update \ this \ section:}$ <br>phi (for 2x2 table) or Cramer's V (larger tables) =<br><br><br><br> |
 | $\textcolor{red}{Add \ this \ section:}$ How will you report results? |
 | $\textcolor{red}{Update \ this \ section:}$ <br>Relevant descriptive statistics:<br><br>Name of test performed and null hypothesis:<br><br>Statistical test information:<br><br>Interpretation for the reader:<br><br> |
 | **--------------------References--------------------** |
